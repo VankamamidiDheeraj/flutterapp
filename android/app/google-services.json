@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476117577176",
+    "project_id": "dheeraj-77939",
+    "storage_bucket": "dheeraj-77939.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476117577176:android:595c37c02153e0484896ad",
+        "android_client_info": {
+          "package_name": "com.example.wishlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGhGasTHYyWgUDmZ-EC870rJa6xgWi-ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
